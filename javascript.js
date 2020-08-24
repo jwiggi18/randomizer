@@ -18,7 +18,7 @@ var blogs = [
 "Not set up yet - click again",
 "https://evolution-hayley.blogspot.com/",
 "https://pkwevolution.blogspot.com",
-"Not set up yet - click again"
+"https://Jessicavenardevolution.blogspot.com"
 ]
 
 function newBlog() {
