@@ -18,7 +18,8 @@ var blogs = [
 "Not set up yet - click again",
 "https://evolution-hayley.blogspot.com/",
 "https://pkwevolution.blogspot.com",
-"https://Jessicavenardevolution.blogspot.com"
+"https://Jessicavenardevolution.blogspot.com",
+"https://tjspratts.blogspot.com/"
 ]
 
 function newBlog() {
