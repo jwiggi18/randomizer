@@ -1,25 +1,12 @@
 var blogs = [
-  "https://evolutionsisfun.blogspot.com/",
-  "https://aczapkay.blogspot.com",
-  "https://evolutionwithdelaney.blogspot.com/",
-"https://aaronsfaulk.blogspot.com/",
-"https://morgandyh.blogspot.com/",
-"https://evolutionf20al.blogspot.com/",
-"https://johnathanmartinosu.blogspot.com/",
-"https://abbimeek22.blogspot.com/",
-"https://kaelynpage.blogspot.com/",
-"https://catalinaperezzz.blogspot.com/",
-"https://emmaphilbin.blogspot.com/",
-"https://morgankkate.blogspot.com",
-"https://jsisov.blogspot.com",
-"https://laurenoliviasuggs.blogspot.com",
-"https://aubreevanmeter.blogspot.com",
-"https://cassidyvaughnevolution.blogspot.com/",
-"Not set up yet - click again",
-"https://evolution-hayley.blogspot.com/",
-"https://pkwevolution.blogspot.com",
-"https://Jessicavenardevolution.blogspot.com",
-"https://tjspratts.blogspot.com/"
+"https://brobowe.blogspot.com/", 
+"https://shanesevolutionarysoup.blogspot.com",
+"https://evolutionbytaylor.blogspot.com/",
+"https://starfilled57evolution.blogspot.com/2021/08/about-me-evolution.html",
+"https://brandonneat.blogspot.com/2021/08/about-me-evolution.html"
+
+
+
 ]
 
 function newBlog() {
