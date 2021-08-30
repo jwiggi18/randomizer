@@ -3,7 +3,8 @@ var blogs = [
 "https://shanesevolutionarysoup.blogspot.com",
 "https://evolutionbytaylor.blogspot.com/",
 "https://starfilled57evolution.blogspot.com/2021/08/about-me-evolution.html",
-"https://brandonneat.blogspot.com/2021/08/about-me-evolution.html"
+"https://brandonneat.blogspot.com/2021/08/about-me-evolution.html",
+"https://thinkspeakrepeat.blogspot.com/"
 
 
 
