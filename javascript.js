@@ -7,8 +7,8 @@ var blogs = [
 "https://evolutionodance.blogspot.com/",
 "https://evolutionbymarie.blogspot.com",
 "https://premedmel.blogspot.com/",
-"https://nateokstate.blogspot.com/"
-
+"https://nateokstate.blogspot.com/",
+"https://evolution-em.blogspot.com"
 
 
 ]
