@@ -8,7 +8,15 @@ const blogs = [
 "https://osu-ashe.blogspot.com",
 "https://katevolutionarybiology.blogspot.com",
 "https://acr-evolution.blogspot.com",
-"https://shortstack123.blogspot.com"
+"https://shortstack123.blogspot.com",
+"https://abbydecker-evolution.blogspot.com",
+"https://evolutionwgracie.blogspot.com",
+"https://brookesevolutionblog.blogspot.com",
+"https://catrinalaguirre.blogspot.com",
+"https://rinnaevoblog.blogspot.com/",
+"https://eliseandevolution.blogspot.com/",
+"https://kalissamoseley666.blogspot.com",
+"https://kelisevolutionblog.blogspot.com/"
 ];
 
 // Function to display a new blog link
