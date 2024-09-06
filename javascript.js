@@ -18,7 +18,8 @@ const blogs = [
 "https://kalissamoseley666.blogspot.com",
 "https://kelisevolutionblog.blogspot.com/",
 "https://geminiah.blogspot.com/",
-"https://evolution-annahboone.blogspot.com/"
+"https://evolution-annahboone.blogspot.com/",
+"https://Adonnay95.blogspot.com"
 ];
 
 // Function to display a new blog link
